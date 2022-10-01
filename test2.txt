@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+     printf("hhhhhhh\n");
+     return 0;
+}
