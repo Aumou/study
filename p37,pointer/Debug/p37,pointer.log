@@ -1,0 +1,3 @@
+﻿  3.c
+C:\code\p37,pointer\p37,pointer\3.c(25,7): warning C4101: “arr”: 未引用的局部变量
+  p37,pointer.vcxproj -> C:\code\p37,pointer\Debug\p37,pointer.exe
