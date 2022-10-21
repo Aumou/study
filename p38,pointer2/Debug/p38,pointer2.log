@@ -1,0 +1,3 @@
+﻿  3.c
+C:\code\p38,pointer2\p38,pointer2\3.c(14,12): warning C4133: “函数”: 从“void (__cdecl *)(char *)”到“char (__cdecl *)(char *)”的类型不兼容
+  p38,pointer2.vcxproj -> C:\code\p38,pointer2\Debug\p38,pointer2.exe
