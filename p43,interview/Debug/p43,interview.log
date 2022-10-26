@@ -1,0 +1,3 @@
+﻿  3.c
+C:\code\p43,interview\p43,interview\3.c(17,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+  p43,interview.vcxproj -> C:\code\p43,interview\Debug\p43,interview.exe
