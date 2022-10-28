@@ -1,0 +1,4 @@
+﻿  4.c
+C:\code\p45,interview\p45,interview\4.c(5,44): error C2078: 初始值设定项太多
+C:\code\p45,interview\p45,interview\4.c(5,22): error C2078: 初始值设定项太多
+C:\code\p45,interview\p45,interview\4.c(6,1): warning C4047: “初始化”:“char **”与“char *”的间接级别不同
