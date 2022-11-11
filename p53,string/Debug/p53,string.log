@@ -1,0 +1,7 @@
+﻿  my_strstr.c
+C:\code\p53,string\p53,string\my_strstr.c(28,12): warning C4090: “=”: 不同的“const”限定符
+C:\code\p53,string\p53,string\my_strstr.c(29,12): warning C4090: “=”: 不同的“const”限定符
+C:\code\p53,string\p53,string\my_strstr.c(59,17): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\code\p53,string\p53,string\my_strstr.c(64,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\code\p53,string\p53,string\my_strstr.c(58,1): warning C4047: “初始化”:“int”与“char *”的间接级别不同
+  p53,string.vcxproj -> C:\code\p53,string\Debug\p53,string.exe
