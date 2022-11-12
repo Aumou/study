@@ -1,0 +1,4 @@
+﻿  others.c
+C:\code\p55,string3\p55,string3\others.c(16,14): warning C4013: “isupper”未定义；假设外部返回 int
+C:\code\p55,string3\p55,string3\others.c(18,20): warning C4013: “tolower”未定义；假设外部返回 int
+  p55,string3.vcxproj -> C:\code\p55,string3\Debug\p55,string3.exe
