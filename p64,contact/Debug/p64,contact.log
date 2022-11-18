@@ -1,0 +1,3 @@
+﻿  contact.c
+C:\code\p64,contact\p64,contact\contact.c(13,21): warning C4047: “==”:“PeoInfo [1000]”与“int”的间接级别不同
+  p64,contact.vcxproj -> C:\code\p64,contact\Debug\p64,contact.exe
