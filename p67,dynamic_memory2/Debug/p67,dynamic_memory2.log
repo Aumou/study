@@ -1,0 +1,5 @@
+﻿  realloc.c
+C:\code\p67,dynamic_memory2\p67,dynamic_memory2\realloc.c(8,23): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\p67,dynamic_memory2\p67,dynamic_memory2\realloc.c(24,20): warning C4013: “realloc”未定义；假设外部返回 int
+C:\code\p67,dynamic_memory2\p67,dynamic_memory2\realloc.c(24,1): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+  p67,dynamic_memory2.vcxproj -> C:\code\p67,dynamic_memory2\Debug\p67,dynamic_memory2.exe
