@@ -1,0 +1,4 @@
+﻿  second.c
+C:\code\p70,dynamic_memory5\p70,dynamic_memory5\second.c(11,34): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\p70,dynamic_memory5\p70,dynamic_memory5\second.c(12,33): warning C4047: “=”:“int *”与“int”的间接级别不同
+  p70,dynamic_memory5.vcxproj -> C:\code\p70,dynamic_memory5\Debug\p70,dynamic_memory5.exe
