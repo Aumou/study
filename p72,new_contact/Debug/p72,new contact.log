@@ -1,0 +1,6 @@
+﻿  contact.c
+C:\code\p65,contact2\p65,contact2\contact.c(7,36): warning C4013: “malloc”未定义；假设外部返回 int
+C:\code\p65,contact2\p65,contact2\contact.c(20,49): warning C4013: “realloc”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  p72,new contact.vcxproj -> C:\code\p72,new contact\Debug\p72,new contact.exe
